@@ -1,12 +1,12 @@
 
-  # example
+  # README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
-  example
+  A README Generator developed in order to make your life easier when it comes to READMEs. Answer a couple questions and "voila"! Your professionally accurate README is generated in an easy-to-manage format.
 
-  View the live application [here](example.com).
+  View the live application [here]().
 
   ## Table of Contents
   * [Installation](#Installation)
@@ -20,13 +20,13 @@
   npm i
 
   ## Usage
-  example
+  Fill out the information that the generator asks of you after installing.
 
   ## License
   This project is covered under the MIT license. 
 
   ## Contributions
-  example
+  Request a pull.
 
   ## Testing
   npm test
