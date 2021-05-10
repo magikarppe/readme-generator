@@ -10,7 +10,7 @@
   * [Questions](#Questions)
   
   # Description 
-A README Generator developed in order to make your life easier when it comes to READMEs. Answer a couple questions and "voila"! Your professionally accurate READE is generated in an easy-to-manage format. 
+A README Generator developed in order to make your life easier when it comes to READMEs. Answer a couple questions and "voila"! Your professionally accurate README is generated in an easy-to-manage format. 
   
   # Installation
    **(npm i)**
