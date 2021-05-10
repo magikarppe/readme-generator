@@ -6,7 +6,7 @@
   ## Description 
   A README Generator developed in order to make your life easier when it comes to READMEs. Answer a couple questions and "voila"! Your professionally accurate README is generated in an easy-to-manage format.
 
-  View the live application [here]().
+  View the live application [here](https://magikarppe.github.io/readme-generator/).
 
   ## Table of Contents
   * [Installation](#Installation)
