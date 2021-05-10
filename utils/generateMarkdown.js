@@ -67,7 +67,8 @@ ${renderLicenseBadge(data.license)}
   ${data.tests}
 
   ## Questions
-  If you have any questions about this project, feel free to contact me directly at ${data.email} or simply open an issue. To see more of my work, visit my GitHub profile at [${data.username}](https://github.com/magikarppe/).
+  In case of any questions, please reach out to me at the email ${data.email} or you can open an issue and I'll get to it as soon as possible. 
+  To see more of my work, visit my GitHub profile at [${data.username}](https://github.com/magikarppe/).
 `;
 }
 

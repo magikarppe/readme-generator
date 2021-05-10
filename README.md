@@ -1,35 +1,35 @@
-# README Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  
-  # Table of Contents 
-  * [Installation](#Installation) 
-  * [Usage](#Usage) 
-  * [License](#license)
-  * [Contributing](#Contribute) 
+
+  # example
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  ## Description 
+  example
+
+  View the live application [here](example.com).
+
+  ## Table of Contents
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [License](#License)
+  * [Contributions](#Contributions)
   * [Testing](#Testing)
   * [Questions](#Questions)
-  
-  # Description 
-A README Generator developed in order to make your life easier when it comes to READMEs. Answer a couple questions and "voila"! Your professionally accurate README is generated in an easy-to-manage format. 
-  
-  # Installation
-   **(npm i)**
 
-  # Testing
-  **npm test**
+  ## Installation
+  npm i
 
-  # Contribute
-  **Create pull request**
+  ## Usage
+  example
 
-  # Usage
-  **git clone**
+  ## License
+  This project is covered under the MIT license. 
 
-  # Questions
-  In case of any questions, please reach out to me at the email tgdmattos@gmail.com
+  ## Contributions
+  example
 
-  For more like this, visit my GitHub at [magikarppe](https://github.com/magikarppe)!
+  ## Testing
+  npm test
 
-
-  # License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+  ## Questions
+  If you have any questions about this project, feel free to contact me directly at tgdmattos@gmail.com or simply open an issue. To see more of my work, visit my GitHub profile at [magikarppe](https://github.com/magikarppe/).
