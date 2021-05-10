@@ -22,6 +22,8 @@
   ## Usage
   Fill out the information that the generator asks of you after installing.
 
+  View a video demo [here](https://drive.google.com/file/d/1hy5QS4OgsuuuHc7jZTW9tLUB0RuatNOt/view?usp=sharing).
+
   ## License
   This project is covered under the MIT license. 
 
